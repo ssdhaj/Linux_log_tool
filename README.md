@@ -31,7 +31,7 @@ This is a Bash script designed for system administrators to **view and manage Li
 1. **Download the script**
 
 ```bash
-git clone https://github.com/yourusername/login-log-manager.git
-cd login-log-manager
-chmod +x login_log_tool.sh
+git clone https://github.com/ssdhaj/Linux_log_tool.git
+cd Linux_log_tool
+chmod +x Linux_log_tool.sh
 
